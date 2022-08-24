@@ -1,3 +1,8 @@
+### Hi there 👋 
+
+- I'm currently learning Java and HTML.
+- How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
+
 # My Personal Profile
 # My stats:
 
