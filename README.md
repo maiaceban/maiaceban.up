@@ -1,8 +1,10 @@
 ### Hi there 👋, Maia Ceban 
+![](https://maiaceban.com/ghpvc/?username=maiaceban)
 
 - ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban?tab=repositories)
 - 🌱 I’m currently learning Java, HTML
 - 👯 I’m looking to collaborate on opern sourse
+- 🥅 I am constantly learning new things
 - 💬 Ask me about Anything
 - 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
 - 😄 Pronouns: She/Her
