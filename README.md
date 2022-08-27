@@ -1,5 +1,5 @@
 ### Hi there 👋, Maia Ceban 
-![](https://maiaceban.com/ghpvc/?username=maiaceban)
+![](https://komarev.com/ghpvc/?username=your-github-maiaceban)
 
 - ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban?tab=repositories)
 - 🌱 I’m currently learning Java, HTML
