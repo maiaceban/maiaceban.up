@@ -1,7 +1,13 @@
 ### Hi there 👋, Maia Ceban 
 
-- I'm currently learning Java and HTML.
-- How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
+
+- 🌱 I’m currently learning Java, HTML
+- 👯 I’m looking to collaborate on opern sourse
+- 💬 Ask me about Anything
+- 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cats!
+
 
 # My stats:
 
