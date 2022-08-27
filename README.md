@@ -1,6 +1,6 @@
 ### Hi there 👋, Maia Ceban 
 
-- ✍ You can find my projects here [https://github.com/maiaceban?tab=repositories]
+- ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban?tab=repositories)
 - 🌱 I’m currently learning Java, HTML
 - 👯 I’m looking to collaborate on opern sourse
 - 💬 Ask me about Anything
