@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-maiaceban)
 
 - ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban?tab=repositories)
-- 🌱 I’m currently learning Java, HTML
+- 🌱 I’m currently learning Java, HTML, JavaScript
 - 👯 I’m looking to collaborate on opern sourse
 - 🥅 I am constantly learning new things
 - 💬 Ask me about... Anything
