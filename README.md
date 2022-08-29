@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java, HTML
 - 👯 I’m looking to collaborate on opern sourse
 - 🥅 I am constantly learning new things
-- 💬 Ask me about Anything
+- 💬 Ask me about... Anything
 - 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Romanian, Russian)
