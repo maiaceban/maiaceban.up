@@ -8,7 +8,7 @@
 - 💬 Ask me about... Anything
 - 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/cebmaya#gh-light-mode-only)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Romanian, Russian)
 <br />
