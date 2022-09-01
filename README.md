@@ -9,8 +9,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Romanian, Russian)
 <br />
-## How to reach me:
-<br />
+
+## HOW TOO REACH ME:
+
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/CebMaya) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)]([https://www.linkedin.com/in/jamesgeorge007](https://www.linkedin.com/in/maia-ceban)) 
 
 ## Languages and Tools:
