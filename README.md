@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on opern sourse
 - 🥅 I am constantly learning new things
 - 💬 Ask me about... Anything
-- 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/)
-- [![website](./img/twitter-light.svg)](https://https://twitter.com/CebMaya#gh-light-mode-only)
+- 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/) [![(https://twitter.com/CebMaya)](./img/twitter-light.svg)](https://https://twitter.com/CebMaya#gh-light-mode-only)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Romanian, Russian)
 <br />
