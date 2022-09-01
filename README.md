@@ -6,16 +6,13 @@
 - 👯 I’m looking to collaborate on opern sourse
 - 🥅 I am constantly learning new things
 - 💬 Ask me about... Anything
-- 📫 How to reach me: LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/) [![(https://twitter.com/CebMaya)](./img/twitter-light.svg)](https://https://twitter.com/CebMaya#gh-light-mode-only)
+LinkedIn - [@maia-ceban](https://www.linkedin.com/in/maia-ceban/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Romanian, Russian)
 <br />
+## 📫 How to reach me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/CebMaya#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/CebMaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/maia-ceban#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maia-ceban#gh-dark-mode-only)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/CebMaya) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)]([https://www.linkedin.com/in/jamesgeorge007](https://www.linkedin.com/in/maia-ceban))
 
 ## Languages and Tools:
 
