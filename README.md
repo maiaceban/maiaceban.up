@@ -3,7 +3,6 @@
 
 - ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban/Java-Projects)
 - 🌱 I’m currently learning Java, HTML, JavaScript
-- 👯 I’m looking to collaborate on opern sourse
 - 🥅 I am constantly learning new things
 - 💬 Ask me about... Anything
 - 😄 Pronouns: She/Her
