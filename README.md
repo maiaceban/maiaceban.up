@@ -1,7 +1,7 @@
 ## Hi there 👋, Maia Ceban 
 ![](https://komarev.com/ghpvc/?username=your-github-maiaceban)
 
->- **1.[Quiz Game](Quiz%20Game)**
+ **1.[Quiz Game](Quiz%20Game)**
 
 - ✍ You can find my projects here [@maiaceban](https://github.com/maiaceban/Java-Projects)
 - 🌱 I’m currently learning Java, HTML, JavaScript
